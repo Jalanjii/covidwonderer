@@ -5,34 +5,29 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk android:minSdkVersion="24" />
-7-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml
+7-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml
 8
 9    <application
-9-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:7:5-21:19
+9-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:7:5-21:19
 10        android:icon="@drawable/icon"
-10-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:8:9-38
+10-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:8:9-38
 11        android:label="@string/app_name" >
-11-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:9:9-41
+11-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:9:9-41
 12        <activity
-12-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:10:9-19:20
+12-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:10:9-19:20
 13            android:name="com.nav.gamepack.GamePackActivity"
-13-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:11:13-45
+13-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:11:13-45
 14            android:exported="true"
-14-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:14:13-36
+14-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:14:13-36
 15            android:label="@string/app_name"
-15-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:12:13-45
+15-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:12:13-45
 16            android:screenOrientation="portrait" >
-16-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:13:13-49
-17            <intent-filter>
-17-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:15:13-18:29
-18                <action android:name="android.intent.action.MAIN" />
-18-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:16:17-69
-18-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:16:25-66
-19
-20                <category android:name="android.intent.category.LAUNCHER" />
-20-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:17:17-77
-20-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:17:27-74
-21            </intent-filter>
+16-->C:\Other\_Job_search\Projects\covidwonderer\puzzle\src\main\AndroidManifest.xml:13:13-49
+17
+18            <!-- <intent-filter> -->
+19            <!-- <action android:name="android.intent.action.MAIN" /> -->
+20            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+21            <!-- </intent-filter> -->
 22        </activity>
 23    </application>
 24

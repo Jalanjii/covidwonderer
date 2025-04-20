@@ -5,57 +5,54 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk android:minSdkVersion="24" />
-7-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml
+7-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml
 8
 9    <application
-9-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:7:5-33:19
+9-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:7:5-33:19
 10        android:icon="@drawable/ic_launcher"
-10-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:8:9-45
+10-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:8:9-45
 11        android:label="@string/app_name"
-11-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:9:9-41
+11-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:9:9-41
 12        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
-12-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:10:9-67
+12-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:10:9-67
 13        <activity
-13-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:11:9-15:20
+13-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:11:9-15:20
 14            android:name="progark.a15.GameActivity_getwang"
-14-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:12:13-49
+14-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:12:13-49
 15            android:noHistory="true"
-15-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:14:13-37
+15-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:14:13-37
 16            android:screenOrientation="portrait" >
-16-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:13:13-49
+16-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:13:13-49
 17        </activity>
 18        <activity
-18-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:16:9-19:20
+18-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:16:9-19:20
 19            android:name="progark.a15.DiffSelectActivity"
-19-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:17:13-47
+19-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:17:13-47
 20            android:screenOrientation="portrait" >
-20-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:18:13-49
+20-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:18:13-49
 21        </activity>
 22        <activity
-22-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:20:9-32:20
+22-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:20:9-32:20
 23            android:name="progark.a15.MainMenuActivity"
-23-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:21:13-45
+23-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:21:13-45
 24            android:alwaysRetainTaskState="true"
-24-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:24:13-49
+24-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:24:13-49
 25            android:exported="true"
-25-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:26:13-36
+25-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:26:13-36
 26            android:label="@string/app_name"
-26-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:22:13-45
+26-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:22:13-45
 27            android:launchMode="singleTask"
-27-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:23:13-44
+27-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:23:13-44
 28            android:screenOrientation="portrait" >
-28-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:25:13-49
-29            <intent-filter>
-29-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:27:13-31:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:28:17-69
-30-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:28:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:30:17-77
-32-->C:\Users\aljal\Downloads\covidwonderer\wangGame\src\main\AndroidManifest.xml:30:27-74
-33            </intent-filter>
-34        </activity>
-35    </application>
-36
-37</manifest>
+28-->C:\Other\_Job_search\Projects\covidwonderer\wangGame\src\main\AndroidManifest.xml:25:13-49
+29
+30            <!-- <intent-filter> -->
+31            <!-- <action android:name="android.intent.action.MAIN" /> -->
+32
+33
+34            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+35            <!-- </intent-filter> -->
+36        </activity>
+37    </application>
+38
+39</manifest>

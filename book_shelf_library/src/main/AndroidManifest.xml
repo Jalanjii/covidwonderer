@@ -38,10 +38,10 @@
 
             <!-- Launch Mode is SingleTop as this is also a Searchable Activity -->
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+<!--                <action android:name="android.intent.action.MAIN" />-->
                 <action android:name="android.intent.action.SEARCH" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
             </intent-filter>
             <!-- Defining the Searchable Configuration of the Searchable Activity -->
             <meta-data
