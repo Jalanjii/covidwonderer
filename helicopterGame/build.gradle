@@ -1,0 +1,32 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+
+android {
+    namespace "dk.brams.android.myfirstgame" // Change for each module!
+    compileSdkVersion 34 // or higher, must be 30+ for Java 9+ source
+
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 34
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).configureEach {
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+}
+
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.13'
+    implementation 'com.android.support:appcompat-v7:29.0.3'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+
+}

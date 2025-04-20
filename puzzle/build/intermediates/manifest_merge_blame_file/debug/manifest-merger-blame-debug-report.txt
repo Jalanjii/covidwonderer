@@ -4,37 +4,36 @@
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
-7    <uses-sdk
-8        android:minSdkVersion="24"
-8-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="29" />
-9-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml
-10
-11    <application
-11-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:7:5-20:19
-12        android:icon="@drawable/icon"
-12-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:8:9-38
-13        android:label="@string/app_name" >
-13-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:9:9-41
-14        <activity
-14-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:10:9-18:20
-15            android:name="com.nav.gamepack.GamePackActivity"
-15-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:11:13-45
-16            android:label="@string/app_name"
-16-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:12:13-45
-17            android:screenOrientation="portrait" >
-17-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:13:13-49
-18            <intent-filter>
-18-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:14:13-17:29
-19                <action android:name="android.intent.action.MAIN" />
-19-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:15:17-69
-19-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:15:25-66
-20
-21                <category android:name="android.intent.category.LAUNCHER" />
-21-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:16:17-77
-21-->C:\androidStudioProjects\CollegeProjects\TheLonging2\puzzle\src\main\AndroidManifest.xml:16:27-74
-22            </intent-filter>
-23        </activity>
-24    </application>
-25
-26</manifest>
+7    <uses-sdk android:minSdkVersion="24" />
+7-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:7:5-21:19
+10        android:icon="@drawable/icon"
+10-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:8:9-38
+11        android:label="@string/app_name" >
+11-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:9:9-41
+12        <activity
+12-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:10:9-19:20
+13            android:name="com.nav.gamepack.GamePackActivity"
+13-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:11:13-45
+14            android:exported="true"
+14-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:14:13-36
+15            android:label="@string/app_name"
+15-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:12:13-45
+16            android:screenOrientation="portrait" >
+16-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:13:13-49
+17            <intent-filter>
+17-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:15:13-18:29
+18                <action android:name="android.intent.action.MAIN" />
+18-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:16:17-69
+18-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:16:25-66
+19
+20                <category android:name="android.intent.category.LAUNCHER" />
+20-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:17:17-77
+20-->C:\Users\aljal\Downloads\covidwonderer\puzzle\src\main\AndroidManifest.xml:17:27-74
+21            </intent-filter>
+22        </activity>
+23    </application>
+24
+25</manifest>

@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable background
+drawable bird1
+drawable bird2
+drawable bird3
+drawable bird4
+drawable bullet
+drawable dead
+drawable fly1
+drawable fly2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_volume_off_black_24dp
+drawable ic_volume_up_black_24dp
+drawable shoot1
+drawable shoot2
+drawable shoot3
+drawable shoot4
+drawable shoot5
+id highScoreTxt
+id play
+id volumeCtrl
+layout activity_i_have_to_fly
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw shoot
+string app_name
+style AppTheme
+style AppTheme.noActionBar

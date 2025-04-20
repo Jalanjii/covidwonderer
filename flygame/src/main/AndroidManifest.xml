@@ -16,7 +16,8 @@
             android:name=".IHaveToFlyActivity"
             android:screenOrientation="landscape"
             android:noHistory="true"
-            android:theme="@style/AppTheme.noActionBar">
+            android:theme="@style/AppTheme.noActionBar"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
