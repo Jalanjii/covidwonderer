@@ -7,6 +7,7 @@ Here are some snapshots of the app. If you want to try it, simply download the a
 <p align="center">
   <img src="covid_gif.gif" alt="Pipeline" width="400" height="800">
 </p>
+
 ### Project Versions
 
 - Gradle: 7.6.2
