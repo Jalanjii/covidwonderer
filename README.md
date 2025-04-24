@@ -5,7 +5,7 @@ In such a context, he had to make the most out of his time in his apartment in o
 
 Here are some snapshots of the app. If you want to try it, simply download the apk file at `\covidwonderer\app\build\outputs\apk\debug`, and install it on your Android. If you're an iPhone user, build the project inside the Android Studio.
 <p align="center">
-  <img src="covid_gif.gif" alt="Pipeline" width="400" height="800">
+  <img src="covid_gifs.gif" alt="Pipeline" width="400" height="800">
 </p>
 
 ### Project Versions
